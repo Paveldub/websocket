@@ -1,0 +1,25 @@
+.heading {
+    padding: 20px;
+    width: 100%;
+    background: #ccc;
+    color: crimson;
+    font-size: 20px;
+    border: 1px solid #000;
+}
+
+.list-group {
+    height: 300px;
+    border: 1px solid #000;
+    margin-top: 0;
+    width: 100%;
+    border-top: 0;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+#messageText {
+    width: 100%;
+}
